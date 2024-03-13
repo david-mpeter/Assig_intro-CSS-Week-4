@@ -1,0 +1,35 @@
+h1 {
+    padding: 10px;
+    background-color: rgb(47, 98, 99);
+}
+body {
+    background-color:black;
+}
+
+#david{
+    color: #ff004f;
+}
+#Intro{
+    font-size: 30px;
+     text-align:center ;
+     color: #ff004f;
+}
+#paragraph{
+    color: beige;
+    margin: 35px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#skills{
+    font-size: 35px;
+    text-align: center;
+    color: #ff004f;
+}
+#list{
+    color: beige;
+    font: size 15px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
